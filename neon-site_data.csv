@@ -1,0 +1,82 @@
+DomainName,DomainNumb,Full_State,Latitude,Longitude,PMC,SiteHost,SiteID,SiteName,SiteType,State,precipitation,temperature,population
+Northeast,1,New Hampshire,44.06388,-71.28731,D01RT1,U.S. Forest Service,BART,Bartlett Experimental Forest,Relocatable Terrestrial,NH,1307.462548,47.14157288,0.341573795
+Great Lakes,5,Wisconsin,45.508942,-89.586365,D05RT1,Steigerwaldt Land Services,STEI,Steigerwaldt Land Services,Relocatable Terrestrial,WI,801.3820669,44.97580644,0.481769334
+Great Lakes,5,Wisconsin,45.493691,-89.58571,D05RT2,"University of Wisconsin, Stevens Point",TREE,Treehaven,Relocatable Terrestrial,WI,802.7583262,45.03755517,0.510338031
+Great Lakes,5,Wisconsin,45.998269,-89.704767,D05RA1,Wisconsin Department of Natural Resources,LIRO,Little Rock Lake,Relocatable Aquatic,WI,815.7233583,39.09885553,0.559323404
+Great Lakes,5,Michigan,46.23388,-89.53725,D05CT1,University of Notre Dame Environmental Research Center,UNDE,UNDERC,Core Terrestrial,MI,845.7007193,37.15906148,0.087390579
+Great Lakes,5,Wisconsin,46.211114,-89.47825,D05CA1,University of Notre Dame Environmental Research Center,CRAM,Crampton Lake,Core Aquatic,WI,839.8745081,37.24949837,0.106562968
+Tundra,18,Alaska,71.28241,-156.61936,D18RT1,Barrow Environmental Observatory,BARR,Barrow Environmental Observatory,Relocatable Terrestrial,AK,116.217025,-122.6395805,0.940423307
+Tundra,18,Alaska,68.630692,-149.610636,D18RA1,Bureau of Land Management,TOOK,Toolik Lake,Relocatable Aquatic,AK,225.743159,-114.9471601,0
+Tundra,18,Alaska,68.66109,-149.37047,D18CT1,Bureau of Land Management,TOOL,Toolik,Core Terrestrial,AK,224.4194893,-117.043466,2.90E-04
+Tundra,18,Alaska,68.669753,-149.143018,D18CA1,Bureau of Land Management,OKSR,Oksrukuyik Creek,Core Aquatic,AK,223.8737089,-116.2906535,5.36E-04
+Taiga,19,Alaska,65.15306,-147.50246,D19CA1,University of Alaska,CARI,"Caribou Creek, Caribou-Poker Creeks Research Watershed",Core Aquatic,AK,306.0882303,-47.36492983,0.047128968
+Taiga,19,Alaska,65.15401,-147.50258,D19CT1,University of Alaska,BONA,Caribou-Poker Creeks Research Watershed,Core Terrestrial,AK,305.990834,-47.43541653,0.046953539
+Taiga,19,Alaska,63.88112,-145.75136,D19RT1,Bureau of Land Management,DEJU,Delta Junction,Relocatable Terrestrial,AK,297.6310909,-32.86256382,0.090192941
+Northern Plains,9,North Dakota,46.76972,-100.91535,D09RT2,"U.S. Department of Agriculture, Agricultural Research Service",NOGP,Northern Great Plains Research Laboratory,Relocatable Terrestrial,ND,417.7843686,53.90142185,6.285953797
+Northern Plains,9,North Dakota,47.12999,-99.250551,D09CA1,"U.S. Geological Survey, U.S. Fish and Wildlife Service",PRPO,Prairie Pothole,Core Aquatic,ND,434.5927648,45.44415451,0.025032245
+Northern Plains,9,North Dakota,47.128228,-99.241356,D09CT1,"U.S. Geological Survey, U.S. Fish and Wildlife Service",WOOD,Woodworth,Core Terrestrial,ND,434.86981,45.47927373,0.025546684
+Northern Plains,9,North Dakota,47.161647,-99.106556,D09RT1,State of North Dakota Land Trust,DCFS,Dakota Coteau Field School,Relocatable Terrestrial,ND,442.3844022,45.93928414,0.012830262
+Northern Plains,9,North Dakota,47.15909,-99.11388,D09RA1,State of North Dakota Land Trust,PRLA,Prairie lake at Dakota Coteau Field School,Relocatable Aquatic,ND,441.9660517,45.85933296,0.013133207
+Northern Rockies,12,Wyoming,44.95348,-110.53914,D12CT1,National Park Service,YELL,Yellowstone Northern Range (Frog Rock),Core Terrestrial,WY,551.5223357,10.80025037,3.35E-04
+Northern Rockies,12,Wyoming,44.95011,-110.58715,D12CA1,National Park Service,BLDE,Blacktail Deer Creek,Core Aquatic,WY,545.99792,12.91504799,0.055610719
+Pacific Northwest,16,Washington,45.76243,-122.33033,D16RT2,Washington Department of Natural Resources,ABBY,Abby Road,Relocatable Terrestrial,WA,2389.685801,89.44244619,1.445887045
+Pacific Northwest,16,Washington,45.820488,-121.951912,D16CT1,U.S. Forest Service,WREF,Wind River Experimental Forest,Core Terrestrial,WA,2420.060583,83.64623879,0.111568464
+Pacific Northwest,16,Washington,45.791248,-121.931959,D16CA1,U.S. Forest Service,MART,Martha Creek,Core Aquatic,WA,2366.983028,86.22812655,0.313505084
+Pacific Northwest,16,Oregon,44.259598,-122.165554,D16RA1,"HJ Andrews Experimental Forest, U.S. Forest Service, Oregon State University",MCRA,McRae Creek,Relocatable Aquatic,OR,1877.479701,70.90654646,0.072483315
+Taiga,19,Alaska,63.87569,-149.21334,D19RT3,Alaska Department of Natural Resources,HEAL,Healy,Relocatable Terrestrial,AK,401.4945646,-42.13410906,0.101950891
+Pacific Tropical,20,Hawaii,19.55309,-155.31731,D20CT1,"Hawaii State Forest Reserve System Department of Land and Natural Resources, Division of Forestry and Wildlife",PUUM,Pu'u Maka'ala Natural Area Reserve,Core Terrestrial,HI,2214.864788,136.7848812,0.153175693
+Pacific Southwest,17,California,37.10878,-119.73228,D17CT1,U.S. Forest Service,SJER,San Joaquin,Core Terrestrial,CA,503.5529009,160.2932829,0.845931966
+Pacific Southwest,17,California,37.00583,-119.00602,D17RT2,U.S. Forest Service,TEAK,Lower Teakettle,Relocatable Terrestrial,CA,775.4932382,64.52691284,0.001481202
+Pacific Southwest,17,California,36.955282,-119.026986,D17CA1,U.S. Forest Service,TECR,Teakettle 2 Creek,Core Aquatic,CA,785.6734834,88.80805957,0.001481199
+Pacific Southwest,17,California,37.057995,-119.255996,D17RA1,U.S. Forest Service,BIGC,Upper Big Creek,Relocatable Aquatic,CA,867.4931994,107.2438307,0.170575629
+Pacific Southwest,17,California,37.03337,-119.26219,D17RT1,U.S. Forest Service,SOAP,Soaproot Saddle,Relocatable Terrestrial,CA,838.6301692,117.8094772,0.221649225
+Southern Plains,11,Texas,33.378589,-97.782258,D11CA1,U. S. Forest Service,PRIN,Pringle Creek,Core Aquatic,TX,836.6366299,178.1249823,1.209589496
+Southern Plains,11,Texas,33.40123,-97.57,D11CT1,U. S. Forest Service,CLBJ,LBJ National Grassland,Core Terrestrial,TX,875.9744398,175.4331284,0.283126015
+Desert Southwest,14,Arizona,31.91068,-110.83549,D14CT1,University of Arizona,SRER,Santa Rita Experimental Range,Core Terrestrial,AZ,389.8414727,182.2363492,2.161200324
+Desert Southwest,14,New Mexico,32.59068,-106.84254,D14RT1,"U.S. Department of Agriculture, Agricultural Research Service",JORN,Jornada LTER,Relocatable Terrestrial,NM,257.2509021,148.0535414,0.002047897
+Desert Southwest,14,Arizona,33.749057,-111.506903,D14CA1,U. S. Forest Service,SYCA,Sycamore Creek,Core Aquatic,AZ,486.5569346,179.2933067,0.0099338
+Southern Rockies & Colorado Plateau,13,Utah,38.24833,-109.38827,D13RT1,Bureau of Land Management,MOAB,Moab,Relocatable Terrestrial,UT,320.191077,95.73019605,0.021987482
+Great Basin,15,Utah,40.17759,-112.45244,D15CT1,"Bureau of Land Management, U.S. Forest Service",ONAQ,Onaqui,Core Terrestrial,UT,355.0814819,86.49192529,0.043862958
+Great Basin,15,Utah,40.783742,-111.797652,D15CA1,"U.S. Forest Service, University of Utah",REDB,Red Butte Creek,Core Aquatic,UT,627.9275365,72.99237645,32.34947882
+Central Plains,10,Colorado,40.27591,-105.54592,D10RT2,National Park Service,RMNP,"Rocky Mountain National Park, CASTNET",Relocatable Terrestrial,CO,567.082924,17.81525592,0.869543244
+Southern Rockies & Colorado Plateau,13,Colorado,39.891366,-105.915395,D13RA1,U.S. Forest Service,WLOU,West St Louis Creek,Relocatable Aquatic,CO,644.725785,-0.114661406,0.102424548
+Southern Rockies & Colorado Plateau,13,Colorado,40.03496,-105.54487,D13CA1,"U.S Forest Service, Boulder County",COMO,Como Creek,Core Aquatic,CO,630.7044513,9.798567035,0.628032519
+Southern Rockies & Colorado Plateau,13,Colorado,40.05425,-105.58237,D13CT1,"University of Colorado at Boulder, U.S. Forest Service, LTER",NIWO,Niwot Ridge Mountain Research Station,Core Terrestrial,CO,685.1236923,-0.80642721,0.09230572
+Central Plains,10,Colorado,40.815534,-104.745602,D10CT1,"U.S. Department of Agriculture, Agriculture Research Service, LTER",CPER,Central Plains Experimental Range,Core Terrestrial,CO,365.0855485,83.8377556,0.053097594
+Central Plains,10,Colorado,40.461903,-103.029297,D10RT1,Private,STER,"North Sterling, CO",Relocatable Terrestrial,CO,428.6555919,91.53408831,0.035270719
+Central Plains,10,Colorado,39.758246,-102.447103,D10CA1,The Nature Conservancy,ARIK,Arikaree River,Core Aquatic,CO,429.3269519,100.8531296,0.009158805
+Southern Plains,11,Oklahoma,35.41059,-99.05879,D11RT1,"Oklahoma State University, Oklahoma Agricultural Experimental Station",OAES,Klemme Range Research Station,Relocatable Terrestrial,OK,702.072257,155.552629,0.161477508
+Southern Plains,11,Oklahoma,34.444218,-96.624201,D11RA1,The Nature Conservancy,BLUE,Blue River,Relocatable Aquatic,OK,1011.752221,161.4951211,0.102429782
+Prairie Peninsula,6,Kansas,38.944276,-96.441967,D06RA1,"KSU Charitable Real Estate Foundation, Private",MCDI,McDiffett Creek,Relocatable Aquatic,KS,880.1101639,119.9285331,0.091902021
+Prairie Peninsula,6,Kansas,39.10077,-96.56309,D06CT1,"The Nature Conservancy, Kansas State University, LTER",KONZ,Konza Prairie Biological Station,Core Terrestrial,KS,865.9341908,121.0234995,3.721501536
+Prairie Peninsula,6,Kansas,39.11044,-96.61295,D06RT2,"The Nature Conservancy, Kansas State University",KONA,Konza Prairie Biological Station,Relocatable Terrestrial,KS,860.7159845,121.2173382,7.809416517
+Prairie Peninsula,6,Kansas,39.105064,-96.603359,D06CA1,"The Nature Conservancy, Kansas State University, LTER",KING,Kings Creek,Core Aquatic,KS,862.0255615,121.1605993,5.903933127
+Prairie Peninsula,6,Kansas,39.04043,-95.19215,D06RT1,University of Kansas,UKFS,The University of Kansas Field Station,Relocatable Terrestrial,KS,964.2487489,126.9333838,5.624505766
+Appalachians & Cumberland Plateau,7,Virginia,37.37828,-80.52484,D07RT1,"Private, University of Virginia",MLBS,Mountain Lake Biological Station,Relocatable Terrestrial,VA,1042.624349,98.80049535,0.450914478
+Appalachians & Cumberland Plateau,7,Tennessee,35.68896,-83.50195,D07RT2,National Park Service,GRSM,"Great Smoky Mountains National Park, Twin Creeks",Relocatable Terrestrial,TN,1490.034121,112.4509945,1.300686466
+Appalachians & Cumberland Plateau,7,Tennessee,35.690428,-83.50379,D07RA1,National Park Service,LECO,LeConte Creek,Relocatable Aquatic,TN,1485.414139,112.8739408,1.357812769
+Appalachians & Cumberland Plateau,7,Tennessee,35.959469,-84.280413,D07CA1,U.S. Department of Energy,WALK,Walker Branch,Core Aquatic,TN,1354.521101,138.6065964,7.172634036
+Appalachians & Cumberland Plateau,7,Tennessee,35.96412,-84.2826,D07CT1,U.S. Department of Energy,ORNL,Oak Ridge,Core Terrestrial,TN,1354.587229,138.5393937,7.287922099
+Ozarks Complex,8,Alabama,31.852096,-88.161065,D08RA2,"U.S. Army Corps of Engineers, University of South Alabama Foundation",TOMB,Lower Tombigbee River at Choctaw Refuge,Relocatable Aquatic,AL,1504.151515,179.656399,0.191906253
+Ozarks Complex,8,Alabama,31.85388,-88.16122,D08RT2,U.S. Army Corps of Engineers,LENO,Lenoir Landing,Relocatable Terrestrial,AL,1504.008497,179.6348279,0.1902381
+Ozarks Complex,8,Alabama,32.54172,-87.80389,D08RT1,U.S. Army Corps of Engineers,DELA,Dead Lake,Relocatable Terrestrial,AL,1389.170952,175.016173,1.761188998
+Ozarks Complex,8,Alabama,32.541529,-87.798151,D08RA1,"U.S. Army Corps of Engineers, Private",BLWA,Black Warrior River near Dead Lake,Relocatable Aquatic,AL,1388.823244,175.0366301,1.768952257
+Ozarks Complex,8,Alabama,32.959657,-87.408128,D08CA1,U.S. Forest Service,MAYF,Mayfield Creek,Core Aquatic,AL,1427.343625,171.0919289,0.049924446
+Ozarks Complex,8,Alabama,32.95046,-87.39327,D08CT1,U.S. Forest Service,TALL,Talladega National Forest,Core Terrestrial,AL,1428.665065,171.0903195,0.049774317
+Southeast,3,Florida,28.12504,-81.4362,D03RT1,The Nature Conservancy,DSNY,Disney Wilderness Preserve,Relocatable Terrestrial,FL,1205.445335,223.6506016,13.98796012
+Southeast,3,Florida,29.676473,-82.009089,D03CA2,University of Florida Foundation,BARC,Barco Lake,Core Aquatic,FL,1314.309078,203.5411936,2.331598481
+Southeast,3,Florida,29.687054,-82.016171,D03CA1,University of Florida Foundation,SUGG,Suggs Lake,Core Aquatic,FL,1314.3187,203.3777671,2.284902696
+Southeast,3,Florida,29.68927,-81.99343,D03CT1,University of Florida Foundation,OSBS,Ordway-Swisher Biological Station,Core Terrestrial,FL,1314.138838,203.5048049,2.372563893
+Southeast,3,Georgia,31.19484,-84.46861,D03RT2,"Private, Robert W. Woodruff Foundation",JERC,Jones Ecological Research Center,Relocatable Terrestrial,GA,1334.926258,192.9326443,0.243258738
+Southeast,3,Georgia,31.185424,-84.437403,D03RA1,"Private, Robert W. Woodruff Foundation",FLNT,Flint River,Relocatable Aquatic,GA,1334.756083,193.0443557,0.254856267
+Mid-Atlantic,2,Virginia,38.89292,-78.1395,D02CT1,Smithsonian Institution,SCBI,Smithsonian Conservation Biology Institute,Core Terrestrial,VA,1014.914623,111.7792861,5.916654424
+Mid-Atlantic,2,Virginia,38.89332,-78.14678,D02CA1,Smithsonian Institution,POSE,Posey Creek,Core Aquatic,VA,1012.948917,111.8854938,5.976733456
+Mid-Atlantic,2,Virginia,39.095637,-77.983216,D02RA1,Casey Trees,LEWI,Lewis Run,Relocatable Aquatic,VA,986.0981609,116.0834245,2.242397144
+Mid-Atlantic,2,Virginia,39.06026,-78.07164,D02RT2,University of Virginia,BLAN,Blandy Experimental Farm,Relocatable Terrestrial,VA,973.5257674,116.729908,2.946831987
+Mid-Atlantic,2,Maryland,38.89008,-76.56001,D02RT1,Smithsonian Institution,SERC,Smithsonian Environmental Research Center,Relocatable Terrestrial,MD,1070.251335,131.2349964,14.96702442
+Northeast,1,Massachusetts,42.5369,-72.17266,D01CT1,"Harvard University, LTER",HARV,Harvard Forest,Core Terrestrial,MA,1125.872444,70.72140399,3.769767308
+Northeast,1,Massachusetts,42.471786,-72.329627,D01CA1,Quabbin DCR - Division of Water Supply Protection,HOPB,Lower Hop Brook,Core Aquatic,MA,1159.769555,73.64241589,0.717492661
+Atlantic Neotropical,4,Puerto Rico,18.174104,-66.79851,D04RA1,University of Puerto Rico,GUIL,Rio Guilarte,Relocatable Aquatic,PR,2440.673079,215.2859605,5.059439007
+Atlantic Neotropical,4,Puerto Rico,17.96955,-66.8687,D04CT1,"State Forest, Dept. of Natural and Environmental Resources, Commonwealth of Puerto Rico",GUAN,Guanica Forest,Core Terrestrial,PR,948.1023349,259.0014144,11.31822125
+Atlantic Neotropical,4,Puerto Rico,18.11352,-66.98676,D04CA1,Commonwealth of Puerto Rico,CUPE,Rio Cupeyes,Core Aquatic,PR,1899.317439,238.8104835,13.17699763
+Atlantic Neotropical,4,Puerto Rico,18.02125,-67.0769,D04RT1,University of Puerto Rico,LAJA,Lajas Experimental Station,Relocatable Terrestrial,PR,1223.425891,254.3173329,12.5658827
